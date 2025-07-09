@@ -1,6 +1,6 @@
 # Youtube-Clone-by-Pandey
 
-this is the youtube amde by pandey adarsh 
+this is the youtube made by Pandey Adarsh 
 in the 1 video section i used some song and a GAURAV THAKUR'S video
 in secon i used some of my videos a my tech channel
 and in 3 section a i used my videos from other channels and
